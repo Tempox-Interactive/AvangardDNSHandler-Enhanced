@@ -1,10 +1,13 @@
 ![Logo](https://raw.githubusercontent.com/Tempox-Interactive/AvangardDNSHandler/refs/heads/main/AvangardDNSHandler_logo.png)
 
-# AvangardDNSHandler (or ADNSH)
-This DNS Server is used for Nintendo DS/Wii consoles. You can use this DNS for connecting to your own WFC Server or other people's server (Wiimmfi, AltWFC)
+> [!WARNING]  
+> From November 28, 2025, future updates will be private. This means the repository will no longer receive official updates. You can still contribute until the end of February 2026.
 
-## Warning.
-We are not affiliated with Nintendo, nor GameSpy. Don't come and cry like a baby.
+# AvangardDNSHandler (or ADNSH)
+This DNS Server is used for Nintendo DS/Wii consoles. You can use this DNS for your own Nintendo WFC Server.
+
+> [!CAUTION]  
+> We are not affiliated with Nintendo, nor GameSpy. Don't come and cry like a baby. Also, don't use this DNS Server for doing bad things.
 
 ## Requirements
 - Python (dnslib)
